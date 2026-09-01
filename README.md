@@ -51,7 +51,7 @@ The dashboard provides insights into:
 
 ## Dashboard Preview
 
-![Amazon Prime Video Analysis Dashboard](Screenshot%202026-05-04%20113221.png)
+![Amazon Prime Video Analysis Dashboard](Amazon-Prime-Video-Dashboard.png)
 
 ## Project Report
 
